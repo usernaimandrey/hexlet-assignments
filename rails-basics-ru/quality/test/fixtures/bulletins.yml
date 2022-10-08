@@ -1,0 +1,9 @@
+published:
+  title: Title1
+  body: Body1
+  published: true
+
+unpublished:
+  title: Title2
+  body: Body2
+  published: false

@@ -1,0 +1,13 @@
+---
+ru:
+  layouts:
+    web:
+      application:
+        hexlet_title: "© Хекслет, %{year}"
+        title: API
+      shared:
+        nav:
+          blog: Blog
+          hexlet_logo: Hexlet logo
+          home: Домой
+          users: Пользователи
